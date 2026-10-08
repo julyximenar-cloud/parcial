@@ -1,0 +1,23 @@
+#pragma once
+
+#include <string>
+
+class Producto {
+private:
+    std::string nombre;
+    double precio;
+    int stock;
+
+public:
+    Producto(
+        std::string nombre,
+        double precio,
+        int stock
+    );
+
+    std::string getNombre() const;
+    double getPrecio() const;
+    int getStock() const;
+
+    void reducirStock(int cantidad);
+};

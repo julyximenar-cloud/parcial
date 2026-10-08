@@ -1,0 +1,3 @@
+/home/julyxx/practica_git/ALSE2026-2-G1/Laboratorio_POO/build/CMakeFiles/laboratorio.dir
+/home/julyxx/practica_git/ALSE2026-2-G1/Laboratorio_POO/build/CMakeFiles/edit_cache.dir
+/home/julyxx/practica_git/ALSE2026-2-G1/Laboratorio_POO/build/CMakeFiles/rebuild_cache.dir
